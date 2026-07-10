@@ -312,7 +312,11 @@ Installed Microsoft SQL Server 2022 Developer Edition on Windows Server 2022.
 
 
 
-!\[](assets/screenshots/01-SQL-Server-Installed.png)
+<p align="center">
+  <img src="./assets/screenshots/01-SQL-Server-Installed.png"
+       alt="SQL Server installation completed"
+       width="900">
+</p>
 
 
 
