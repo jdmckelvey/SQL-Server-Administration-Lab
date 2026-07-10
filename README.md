@@ -352,7 +352,9 @@ Verified connectivity to the SQL Server instance.
 
 
 
-!\[](assets/screenshots/03-Connected-to-SQL.png)
+<p align="center">
+  <img src="./assets/screenshots/03-Connected-to-SQL.png" alt="Connected to SQL Server" width="900">
+</p>
 
 
 
@@ -368,8 +370,9 @@ Created the TechSolutions production-style database.
 
 
 
-!\[](assets/screenshots/04-TechSolutions-Database.png)
-
+<p align="center">
+  <img src="./assets/screenshots/04-TechSolutions-Database.png" alt="TechSolutions Database" width="900">
+</p>
 
 
 \---
@@ -384,7 +387,9 @@ Created the Employees table.
 
 
 
-!\[](assets/screenshots/05-Employees-Table.png)
+<p align="center">
+  <img src="./assets/screenshots/05-Employees-Table.png" alt="Employees Table" width="900">
+</p>
 
 
 
@@ -400,7 +405,9 @@ Inserted employee records into the database.
 
 
 
-!\[](assets/screenshots/06-Employee-Data.png)
+<p align="center">
+  <img src="./assets/screenshots/06-Employee-Data.png" alt="Employee Data" width="900">
+</p>
 
 
 
@@ -416,7 +423,9 @@ Retrieved employee information using SELECT statements.
 
 
 
-!\[](assets/screenshots/07-Select-All-Employees.png)
+<p align="center">
+  <img src="./assets/screenshots/07-Select-All-Employees.png" alt="Select All Employees" width="900">
+</p>
 
 
 
@@ -432,7 +441,9 @@ Filtered employees by department.
 
 
 
-!\[](assets/screenshots/08-IT-Employees.png)
+<p align="center">
+  <img src="./assets/screenshots/08-IT-Employees.png" alt="IT Employees" width="900">
+</p>
 
 
 
@@ -448,7 +459,9 @@ Sorted employee records.
 
 
 
-!\[](assets/screenshots/09-Sorted-Employees.png)
+<p align="center">
+  <img src="./assets/screenshots/09-Sorted-Employees.png" alt="Sorted Employees" width="900">
+</p>
 
 
 
@@ -464,7 +477,9 @@ Calculated employee totals.
 
 
 
-!\[](assets/screenshots/10-Employee-Count.png)
+<p align="center">
+  <img src="./assets/screenshots/10-Employee-Count.png" alt="Employee Count" width="900">
+</p>
 
 
 
@@ -480,7 +495,9 @@ Displayed active employees.
 
 
 
-!\[](assets/screenshots/11-Active-Employees.png)
+<p align="center">
+  <img src="./assets/screenshots/11-Active-Employees.png" alt="Active Employees" width="900">
+</p>
 
 
 
@@ -496,7 +513,9 @@ Created the Departments table.
 
 
 
-!\[](assets/screenshots/12-Departments-Table.png)
+<p align="center">
+  <img src="./assets/screenshots/12-Departments-Table.png" alt="Departments Table" width="900">
+</p>
 
 
 
@@ -512,8 +531,9 @@ Inserted department information.
 
 
 
-!\[](assets/screenshots/13-Department-Data.png)
-
+<p align="center">
+  <img src="./assets/screenshots/13-Department-Data.png" alt="Department Data" width="900">
+</p>
 
 
 \---
@@ -528,7 +548,9 @@ Verified department records.
 
 
 
-!\[](assets/screenshots/14-Departments-Results.png)
+<p align="center">
+  <img src="./assets/screenshots/14-Departments-Results.png" alt="Departments Results" width="900">
+</p>
 
 
 
@@ -544,7 +566,9 @@ Joined Employees and Departments tables.
 
 
 
-!\[](assets/screenshots/15-Employee-Department-Join.png)
+<p align="center">
+  <img src="./assets/screenshots/15-Employee-Department-Join.png" alt="Employee Department Join" width="900">
+</p>
 
 
 
@@ -560,7 +584,9 @@ Created the SupportTickets table.
 
 
 
-!\[](assets/screenshots/16-Support-Tickets.png)
+<p align="center">
+  <img src="./assets/screenshots/16-Support-Tickets.png" alt="Support Tickets" width="900">
+</p>
 
 
 
@@ -576,8 +602,9 @@ Joined support tickets with employee records.
 
 
 
-!\[](assets/screenshots/17-Tickets-With-Employees.png)
-
+<p align="center">
+  <img src="./assets/screenshots/17-Tickets-With-Employees.png" alt="Tickets With Employees" width="900">
+</p>
 
 
 \---
@@ -592,8 +619,9 @@ Displayed open support tickets.
 
 
 
-!\[](assets/screenshots/18-Open-Tickets.png)
-
+<p align="center">
+  <img src="./assets/screenshots/18-Open-Tickets.png" alt="Open Tickets" width="900">
+</p>
 
 
 \---
@@ -608,8 +636,9 @@ Filtered high-priority incidents.
 
 
 
-!\[](assets/screenshots/19-High-Priority-Tickets.png)
-
+<p align="center">
+  <img src="./assets/screenshots/19-High-Priority-Tickets.png" alt="High Priority Tickets" width="900">
+</p>
 
 
 \---
@@ -624,7 +653,9 @@ Grouped support tickets by status.
 
 
 
-!\[](assets/screenshots/20-Tickets-By-Status.png)
+<p align="center">
+  <img src="./assets/screenshots/20-Tickets-By-Status.png" alt="Tickets by Status" width="900">
+</p>
 
 
 
@@ -640,8 +671,9 @@ Grouped support tickets by department.
 
 
 
-!\[](assets/screenshots/21-Tickets-By-Department.png)
-
+<p align="center">
+  <img src="./assets/screenshots/21-Tickets-By-Department.png" alt="Tickets by Department" width="900">
+</p>
 
 
 \---
@@ -656,7 +688,9 @@ Created a complete reporting query using multiple JOIN statements.
 
 
 
-!\[](assets/screenshots/22-Full-Help-Desk-Report.png)
+<p align="center">
+  <img src="./assets/screenshots/22-Full-Help-Desk-Report.png" alt="Full Help Desk Report" width="900">
+</p>
 
 
 
@@ -672,7 +706,9 @@ Created a SQL login with read-only access.
 
 
 
-!\[](assets/screenshots/23-SQL-User-Created.png)
+<p align="center">
+  <img src="./assets/screenshots/23-SQL-User-Created.png" alt="SQL User Created" width="900">
+</p>
 
 
 
@@ -688,8 +724,9 @@ Verified that write operations were denied.
 
 
 
-!\[](assets/screenshots/24-Delete-Permission-Denied.png)
-
+<p align="center">
+  <img src="./assets/screenshots/24-Delete-Permission-Denied.png" alt="Delete Permission Denied" width="900">
+</p>
 
 
 \---
@@ -704,7 +741,9 @@ Verified relational integrity between tables.
 
 
 
-!\[](assets/screenshots/25-Foreign-Key-Relationship.png)
+<p align="center">
+  <img src="./assets/screenshots/25-Foreign-Key-Relationship.png" alt="Foreign Key Relationship" width="900">
+</p>
 
 
 
@@ -720,7 +759,9 @@ Performed a successful SQL Server backup.
 
 
 
-!\[](assets/screenshots/26-Database-Backup-Success.png)
+<p align="center">
+  <img src="./assets/screenshots/26-Database-Backup-Success.png" alt="Database Backup Success" width="900">
+</p>
 
 
 
@@ -736,7 +777,9 @@ Verified the backup file was successfully created.
 
 
 
-!\[](assets/screenshots/27-TechSolutions-Backup-File.png)
+<p align="center">
+  <img src="./assets/screenshots/27-TechSolutions-Backup-File.png" alt="TechSolutions Backup File" width="900">
+</p>
 
 
 
