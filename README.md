@@ -354,7 +354,7 @@ Verified connectivity to the SQL Server instance.
 
 <p align="center">
   <img src="./assets/screenshots/03-Connected-to-SQL.png" alt="Connected to SQL Server" width="900">
-</p>
+</p> 
 
 
 
