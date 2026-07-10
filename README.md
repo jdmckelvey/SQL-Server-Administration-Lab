@@ -332,7 +332,11 @@ Installed SQL Server Management Studio and connected to the SQL Server instance.
 
 
 
-!\[](assets/screenshots/02-SSMS-Installed.png)
+<p align="center">
+  <img src="./assets/screenshots/02-SSMS-Installed.png"
+       alt="SQL Server Management Studio installed"
+       width="900">
+</p>
 
 
 
